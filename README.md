@@ -1,4 +1,4 @@
-# ParcialFinal
+# FinalExam
 In this repository you can find the code for a program that manages the books of a bookshop called "Libros para todos"
 
 This program follows an architecture system called MVC, it means that we use a controller, a view and a model
